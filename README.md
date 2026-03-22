@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Object Detection App
 
 A production-quality computer vision application that performs real-time object detection using YOLOv8 and OpenCV.
@@ -19,3 +20,7 @@ A production-quality computer vision application that performs real-time object 
    ```bash
    python main.py
    ```
+=======
+# Real-Time-Object-Detection
+ml project
+>>>>>>> 1d68aa50a843666408283bd9717c4563454b1856
